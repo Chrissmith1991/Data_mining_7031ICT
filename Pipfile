@@ -15,3 +15,6 @@ mlxtend = "*"
 
 [requires]
 python_version = "3.9"
+
+[scripts]
+jupyter='jupyter notebook'
